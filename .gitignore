@@ -1,0 +1,16 @@
+bin/
+build/
+out/
+target/
+.svn/
+*.iml
+*.ipr
+*.iws
+*.log
+.classpath
+.project
+.settings/
+.idea/
+_site/
+.bak/
+*.dat
